@@ -99,3 +99,5 @@ austin
 auth
 auto
 autodiscove
+africa
+linux
